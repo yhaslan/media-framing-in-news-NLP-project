@@ -1,7 +1,7 @@
 # Media Framing in News NLP Project
 Media framing in news on Israeli Occupation in Gaza in 2023
 
-This analysis is performed for the final project of Empirical Methods course of Master 2 in Economie du Développement Durable of Univesité de Paris 1 Panthéon-Sorbonne.
+This analysis is performed for the final project of Empirical Methods course of Master 2 in Economie du Développement Durable of Univesité de Paris 1 Panthéon-Sorbonne in ollaboration with Elif Çanga.
 
 ### :warning: Content Warning: Sensitive Material :warning:
 The content analyzed in this repository may contain historically and culturally sensitive terms as well as references to violent themes, consequences of genocide, death and human suffering. Reader discretion is advised. The information provided may be distressing or triggering to some individuals. Proceeding further acknowledges your understanding and acceptance of encountering such sensitive subject matter.
