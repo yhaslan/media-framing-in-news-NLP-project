@@ -7,7 +7,7 @@ This analysis was performed for the final project of Empirical Methods course of
 The content analyzed in this repository may contain historically and culturally sensitive terms as well as references to violent themes, consequences of genocide, death and human suffering. Reader discretion is advised. The information provided may be distressing or triggering to some individuals. Proceeding further acknowledges your understanding and acceptance of encountering such sensitive subject matter.
 
 ## Research Question
-The purpose of this analysis is to explore how two media from two different countries covered the events following the 7 October in their news, and to feed the discussions on how the reality can be constructed in the media in different ways by using different NLP techniques in the context of what was described as genocide by the UN Commission of Inquiry a year after our analysis. In this regard, we conducted a media framing analysis by examining the news of the Qatari media Al-Jazeera and the British media BBC, in which we detected differences in their reporting strategies.
+The purpose of this analysis is to explore how two media from two different countries covered the events following the 7 October in their news, and to feed the discussions on how the reality can be constructed in the media in different ways by using different NLP techniques in the context of what was described as genocide by the UN Commission of Inquiry a year after our analysis. In this regard, we conducted a media framing analysis, examining the news of the Qatari media Al-Jazeera and the British media BBC, in which we detected differences in their reporting strategies.
 
 ## Why This Question?
 
@@ -15,9 +15,11 @@ As far as the occupation is concerned, whose origins go back to 1948, the issue 
 
 An analysis conducted by the [Glasgow Media Group in 2011](https://www.glasgowmediagroup.org/downloads/17-war-and-conflict) compared the language used by journalists for Israelis and Palestinians reviewing the BBC's news broadcasts. They found that while terms such as “brutal murder”, “mass murder”, and “massacre” were used to describe the deaths of Israelis, Palestinians were linked with "terrorism".
 
-More recently, BBC News [has also been criticized](https://thewire.in/media/dead-versus-killed-a-closer-look-at-the-media-bias-in-reporting-israel-palestine-conflict) for a biased language against Palestine, such as an allegedly deliberate use of the word “dead” for those killed in Gaza whereas the word “killed” for those who lost lives in Israel.
+Our data comes from and compare these two sources:
+- A Qatari news giant Al-Jazeera, with an openly pro-Palestine position
+- and BBC News, which [has recently been criticized](https://thewire.in/media/dead-versus-killed-a-closer-look-at-the-media-bias-in-reporting-israel-palestine-conflict) for an allegedly deliberate narrative differences when reporting Palestinian vs Israeli fatalities.
 
-Taking into account all these controversies and the powerful impacts of media framing found in the previous literature and leveraging the NLP and Machine Learning techniques, this study aims to assess quantitatively whether those news coverages cited by the critics were isolated cases or whether they represent a systemmatic reporting strategy in the coverage.
+Taking into account those recent controversies and the discussions about media framing from the exising literature, and leveraging the NLP and Machine Learning techniques, this study aims to assess quantitatively whether those news coverages cited by the critics were isolated cases or whether they represent a systemmatic reporting strategy in the coverage.
 
 ## Organization of this Repository:
 In this repository you will find:
